@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQL</string>
+    <string-array name="Sort">
+        <item></item>
+        <item>По алфавиту</item>
+        <item>По id</item>
+        <item>Сбросить сортировку</item>
+    </string-array>
+</resources>
